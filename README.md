@@ -164,7 +164,6 @@ curl -X 'POST' \
 ![API Screenshot](![Screenshot (488)](https://github.com/user-attachments/assets/42a39559-b9c0-43db-a5a0-f54303724014)
 )
 
-*(You can replace this with your actual screen recording or screenshots)*
 
 ---
 
