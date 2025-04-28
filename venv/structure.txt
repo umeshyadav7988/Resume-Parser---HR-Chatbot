@@ -1,0 +1,11 @@
+resume-parser-ai/
+│
+├── app/
+│   ├── main.py
+│   ├── models.py
+│   ├── services.py
+│   └── utils.py
+│
+├── .env
+├── README.md
+└── requirements.txt
