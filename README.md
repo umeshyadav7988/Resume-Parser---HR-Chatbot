@@ -1,6 +1,6 @@
-# 📄 Resume Parser & HR Chatbot
+# 📄 SmartHire AI
 
-Welcome to the **Resume Parser and HR Chatbot** — an AI-powered backend service that extracts structured information from uploaded resumes using **LLMs** (Large Language Models) and helps HR teams find the best candidates via a chatbot.
+Welcome to the **SmartHire AI** — an AI-powered backend service that extracts structured information from uploaded resumes using **LLMs** (Large Language Models) and helps HR teams find the best candidates via a chatbot.
 
 ---
 
